@@ -124,6 +124,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+vuengo
 
 # Spyder project settings
 .spyderproject
