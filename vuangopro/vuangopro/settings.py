@@ -25,7 +25,7 @@ SECRET_KEY = '8pbcu(!q&j22b=ie$u1k&jo1hb1sp-rvb_e8vv(&%4!_3n=dik'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dvtodoappapifr.herokuapp.com','127.0.0.1']
 CORS_ORIGIN_ALLOW_ALL = True
 
 # Application definition
