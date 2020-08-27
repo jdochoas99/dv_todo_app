@@ -1,0 +1,1 @@
+web: gunicorn vuangopro.wsgi --log-file -
